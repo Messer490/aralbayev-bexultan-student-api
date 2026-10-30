@@ -30,3 +30,4 @@ Database: PostgreSQL 16
 Java: 21
 Docker Compose: application and database services
 Documentation status: reviewed and approved by Bexultan Aralbayev
+CI automation verified by Bexultan Aralbayev.
